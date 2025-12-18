@@ -43,8 +43,8 @@ gesture-dino-controller/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/gesture-dino-controller.git
-cd gesture-dino-controller
+git clone https://github.com/sidharthprem310/TouchlessDinoRunner.git
+cd TouchlessDinoRunner
 ```
 
 ### 2. Install dependencies
