@@ -98,7 +98,7 @@ Press Q to exit the application.
 
 - Requires local execution on a personal computer
 - Chrome window must stay in focus
-- Full game control is not supported on Google Colab due to system restrictions
+- Multi-gesture support is not implemented in this project
 
 ## Future Enhancements
 
@@ -107,7 +107,3 @@ Press Q to exit the application.
 - Multi gesture support
 - Score tracking and performance metrics
 - Cross platform gesture control for other games
-
-## License
-
-This project is licensed under the MIT License.
